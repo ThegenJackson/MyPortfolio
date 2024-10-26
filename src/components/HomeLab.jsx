@@ -3,10 +3,10 @@ export default function App() {
 <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content text-center">
     <div className="max-w-md">
-      <h1 className="text-5xl font-bold">Home Lab</h1>
+    <h1 className="text-5xl font-bold mb-5">Home Lab</h1>
+    <h2 className="text-3xl font-bold">This page is under construction</h2>
       <p className="py-6">
-        Provident cupiditate voluptatem et in. Quaerat fugiat ut assumenda excepturi exercitationem
-        quasi. In deleniti eaque aut repudiandae et a id nisi.
+        Check back soon!
       </p>
       <button className="btn btn-primary">Get Started</button>
     </div>
