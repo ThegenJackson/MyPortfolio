@@ -1,4 +1,4 @@
-export default function App() {
+export default function HomeLab() {
     return (
 <div className="hero bg-base-200 min-h-screen">
   <div className="hero-content text-center">
