@@ -10,6 +10,7 @@ export default function Projects() {
       <p>This is a blurb about the project</p>
     </div>
     </div>
+
     <div className="collapse collapse-arrow bg-base-200">
       <input type="radio" name="my-accordion-2" />
       <div className="collapse-title text-xl font-medium">Project 2</div>
@@ -17,6 +18,7 @@ export default function Projects() {
         <p>This is a blurb about the project</p>
       </div>
     </div>
+    
     <div className="collapse collapse-arrow bg-base-200">
       <input type="radio" name="my-accordion-2" />
       <div className="collapse-title text-xl font-medium">Project 3</div>
